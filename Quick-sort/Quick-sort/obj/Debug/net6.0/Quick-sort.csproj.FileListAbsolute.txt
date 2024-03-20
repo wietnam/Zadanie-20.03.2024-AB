@@ -1,0 +1,14 @@
+C:\Users\ewel4\source\repos\Quick-sort\Quick-sort\bin\Debug\net6.0\Quick-sort.exe
+C:\Users\ewel4\source\repos\Quick-sort\Quick-sort\bin\Debug\net6.0\Quick-sort.deps.json
+C:\Users\ewel4\source\repos\Quick-sort\Quick-sort\bin\Debug\net6.0\Quick-sort.runtimeconfig.json
+C:\Users\ewel4\source\repos\Quick-sort\Quick-sort\bin\Debug\net6.0\Quick-sort.dll
+C:\Users\ewel4\source\repos\Quick-sort\Quick-sort\bin\Debug\net6.0\Quick-sort.pdb
+C:\Users\ewel4\source\repos\Quick-sort\Quick-sort\obj\Debug\net6.0\Quick-sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewel4\source\repos\Quick-sort\Quick-sort\obj\Debug\net6.0\Quick-sort.AssemblyInfoInputs.cache
+C:\Users\ewel4\source\repos\Quick-sort\Quick-sort\obj\Debug\net6.0\Quick-sort.AssemblyInfo.cs
+C:\Users\ewel4\source\repos\Quick-sort\Quick-sort\obj\Debug\net6.0\Quick-sort.csproj.CoreCompileInputs.cache
+C:\Users\ewel4\source\repos\Quick-sort\Quick-sort\obj\Debug\net6.0\Quick-sort.dll
+C:\Users\ewel4\source\repos\Quick-sort\Quick-sort\obj\Debug\net6.0\refint\Quick-sort.dll
+C:\Users\ewel4\source\repos\Quick-sort\Quick-sort\obj\Debug\net6.0\Quick-sort.pdb
+C:\Users\ewel4\source\repos\Quick-sort\Quick-sort\obj\Debug\net6.0\Quick-sort.genruntimeconfig.cache
+C:\Users\ewel4\source\repos\Quick-sort\Quick-sort\obj\Debug\net6.0\ref\Quick-sort.dll
